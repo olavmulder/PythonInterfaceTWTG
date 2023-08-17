@@ -1,0 +1,18 @@
+--------------
+V documentatie maken -> Thijs kan testen
+V code op bitbucket -> Chris kan testen
+V check size data by encode en decode crc?
+V PSD aanpassen
+V UML in documentatie aanpassen
+ 
+
+
+Hoe werkt Send Serial op MCU??
+
+... ReceiveDataOverProtocol wait for reactio TWTG 
+... SendProtocol with CLI also test.py__
+... CLI maken
+... Documentation
+
+coverage run -m unittest discover 
+coverage report -m
